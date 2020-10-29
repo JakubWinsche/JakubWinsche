@@ -1,18 +1,19 @@
-# Hi there 👋 I am immortal-miku 
+# Hi there 👋 I am Jakub
 
-<!--
-**immortal-miku/immortal-miku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-!-->
-My pronouns are She/Her but I don't mind if you call me anything ☺
+
+My pronouns are He/Him but I don't mind if you call me anything ☺
 
 ## Programming Shit
 
 ### Langauges
 - Java
 - JS
+- HTML (Not Joke 😏)
+- C#
+- C
 - C++
 ### Want to learn
-- Brainfuck
+- Rust
 - C
 ## The golden rule
 ```js
@@ -23,6 +24,6 @@ if (!viewer.hasDepression) {
 }
 ```
 ## Contact
-- Email: cheese@centrix.network
-- Work Phone: (540) 339 - 6239
-- Discord: @immortal-cirno#5702 or https://discord.gg/VmmV2Cx (Best way to contact me)
+- Email: jakub.a.winczewski@gmail.com
+- Work Phone: 666 69 720
+- Discord: @John F. Kennedy#4438 (Best way to contact me)
