@@ -1,5 +1,4 @@
-# Hi there 👋 I am Jakub
-
+# Hi sunt, 👋 ego sum, Jakub
 
 My pronouns are He/Him but I don't mind if you call me anything ☺
 
