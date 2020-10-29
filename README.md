@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi there 👋 I am immortal-miku
 
-<!--
-**JakubWinsche/JakubWinsche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My pronouns are She/Her but I don't mind if you call me anything ☺
+Programming Shit
+Langauges
 
-Here are some ideas to get you started:
+    Java
+    JS
+    C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to learn
+
+    Brainfuck
+    C
+
+The golden rule
+
+if (!viewer.hasDepression) {
+  life.live.toFullest();
+} else {
+  see.psychiatrist();
+}
+
+Contact
+
+    Email: cheese@centrix.network
+    Work Phone: (540) 339 - 6239
+    Discord: @immortal-cirno#5702 or https://discord.gg/VmmV2Cx (Best way to contact me)
