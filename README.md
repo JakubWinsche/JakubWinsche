@@ -16,10 +16,11 @@ My pronouns are He/Him but I don't mind if you call me anything ☺
 - C--
 ## The golden rule
 ```js
-if (!viewer.hasDepression) {
-  life.live.toFullest();
-} else {
-  see.psychiatrist();
+while(noSuccess == true) {
+  tryAgain();
+  if(dead) {
+    break;
+  }
 }
 ```
 ## Contact
