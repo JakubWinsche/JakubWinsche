@@ -16,7 +16,7 @@ My pronouns are He/Him but I don't mind if you call me anything ☺
 - C--
 ## The golden rule
 ```js
-while(noSuccess == true) {
+while(noSuccess) {
   tryAgain();
   if(dead) {
     break;
