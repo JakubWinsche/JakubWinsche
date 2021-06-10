@@ -3,6 +3,7 @@
 My pronouns are He/Him but I don't mind if you call me anything ☺
 
 ## Programming Shit
+![image](https://user-images.githubusercontent.com/61837331/121513062-558c9300-c9e2-11eb-829a-30c51fde1870.png)
 
 ### Langauges
 - Java
