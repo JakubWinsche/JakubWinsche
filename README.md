@@ -28,7 +28,7 @@ while(noSuccess) {
 - Discord: @John F. Kennedy#4438 (Best way to contact me)
 
 
-# Tim's Community Chess Tournament
+# Jakub's Chess Tournament
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white (hollow) piece.
 
