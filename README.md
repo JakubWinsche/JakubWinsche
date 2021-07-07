@@ -1,6 +1,6 @@
-# Hi sunt, 👋 ego sum, Jakub
-
 ![](https://komarev.com/ghpvc/?username=JakubWinsche)
+
+# Hi sunt, 👋 ego sum, Jakub
 
 My pronouns are He/Him but I don't mind if you call me anything ☺
 
