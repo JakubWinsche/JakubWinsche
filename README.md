@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Jakub</a>!
+## Heyyo, I'm <a href="https://www.dailymail.co.uk/news/article-6031487/Schoolboy-12-designs-codes-app-dishes-Eastern-wisdom-philosophy.html" target="_blank">Jakub</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
