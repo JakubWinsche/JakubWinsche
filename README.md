@@ -1,8 +1,3 @@
-![](https://komarev.com/ghpvc/?username=JakubWinsche)
-
-<br/>
-<br/>
-
 ## Heyyo, I'm <a href="https://www.dailymail.co.uk/news/article-6031487/Schoolboy-12-designs-codes-app-dishes-Eastern-wisdom-philosophy.html" target="_blank">Jakub</a>!
 (Use dark theme to find my socials ;)
 
@@ -65,4 +60,9 @@ while(noSuccess) {
 ## Contact
 - Email: jakub.a.winczewski@gmail.com
 - Discord: @John F. Kennedy#4438 (Best way to contact me)
+ 
+<br/>
+<br/>
+  
+![](https://komarev.com/ghpvc/?username=JakubWinsche)  
 
