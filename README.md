@@ -40,11 +40,11 @@
 
 
 ### Now Playing 🎧
-
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/214hxv6pbj4da7kgnwlqaewxa)
+  
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214hxv6pbj4da7kgnwlqaewxa&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>
-
+---
 
 [![Jakub's github stats](https://github-readme-stats.vercel.app/api?username=JakubWinsche&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
   
