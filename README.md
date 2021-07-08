@@ -5,9 +5,8 @@
 <a href="https://www.behance.net/jakubwinczewski" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
 <a href="https://dribbble.com/JakubWinczewski" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
 <a href="https://www.instagram.com/allocated_/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://twitter.com/Jakub_Winczewski" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
-<a href="https://dev.to/dashboard" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://twitter.com/Jakub_Winczewsk" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://dev.to/jakubwinsche" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 <br/>
 <br/>
