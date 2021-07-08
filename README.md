@@ -10,7 +10,6 @@
 
 <br/>
 <br/>
-
 ### Languages and Tools:
 
 
@@ -34,14 +33,14 @@
 
 <br />
 <br />
+
 ---
 
 
 
 ### Now Playing 🎧
-  
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214hxv6pbj4da7kgnwlqaewxa&cover_image=true&theme=default)]
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/214hxv6pbj4da7kgnwlqaewxa)
 <br/>
 ---
 
@@ -64,4 +63,3 @@ while(noSuccess) {
 <br/>
   
 ![](https://komarev.com/ghpvc/?username=JakubWinsche)  
-
