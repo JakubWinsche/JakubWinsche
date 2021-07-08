@@ -42,7 +42,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/JakubWinczewski)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/214hxv6pbj4da7kgnwlqaewxa)
 <br/>
 ---
 
