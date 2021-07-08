@@ -2,7 +2,7 @@
 (Use dark theme to find my socials ;)
 
 <a href="https://www.linkedin.com/in/jakub-winczewski-7a617817a/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
+<a href="https://www.behance.net/jakubwinczewski" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
 <a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
 <a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
